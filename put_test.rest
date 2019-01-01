@@ -1,0 +1,6 @@
+https://reqres.in
+HEAD /api/users
+GET /api/users
+POST /api/users
+PUT /api/users
+DELETE /api/users
